@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution link]()
-- Live Site URL: [Live link]()
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-xNIC1Xm4MG)
+- Live Site URL: [Live link](https://bennatbjoern.github.io/profile-card-component/)
 
 ## My process
 
